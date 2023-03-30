@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "target": "es6",
+    "module": "CommonJS",
+    "sourceMap": true,
+    "baseUrl": ".",
+    "noImplicitAny": true,
+    "strict": true,
+  },
+  "exclude": ["testing/*.test.ts"]
+}
